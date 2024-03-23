@@ -1,0 +1,61 @@
+body
+{
+    border-radius: auto;
+    margin: auto;
+    
+}
+h1
+{
+    color: black;
+    text-align: center;
+}
+.layer1
+{
+    align-items: center;
+}
+/* WE USE THE . FOR THE NAME */
+.BUTTONLAYER_4
+{
+    margin: 5px;    
+}
+.BUTTONLAYER_3
+{
+       
+}
+
+.BUTTONLAYER_2
+{
+    margin: 5px;    
+}
+
+.BUTTONLAYER_1
+{
+    margin: 5px;    
+}
+/* WE USE THE # TO ADD THE ID  */
+.button
+{
+    border-radius: 100PX;
+    align-items: center;
+    background-color: darkorange;
+    color: black;
+}
+
+.grid-container
+{
+    margin: auto;
+    align-items: center;
+    display: inline-grid;
+    grid-row:100PX;
+    grid-template-columns: auto auto auto auto;
+    background-color: #040404;
+    padding: 10px;
+}
+.algin
+{
+    align-items:center;
+}
+.grid-item
+{
+    align-items: center;
+}
